@@ -1,8 +1,7 @@
 env/
-frontend/node_modules
 backend/.env
 backend/db.sqlite3
 backend/selenium_backend/info.json
 backend/selenium_backend/libraries.txt
 backend/selenium_backend/output.json
-
+frontend/node_modules/
