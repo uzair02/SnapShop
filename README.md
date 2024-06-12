@@ -44,4 +44,4 @@ When a customer wants to buy a product, they can use any of the search options p
 
 
 
-Project made by 'Chemsa Devs'
+Project developed by **'Chemsa Devs'**
